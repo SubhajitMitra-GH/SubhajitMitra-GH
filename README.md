@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SubhajitMitra-GH
 - 👀 I’m interested in Machine Learning and Web Dev.
 - 🌱 I’m currently learning Computer Science and Web Dev. with Machine learning
-- 💞️ I’m looking to collaborate on Web Dev
+- 💞️ I’m looking to collaborate on projects.
 - 📫 You can mail me at msubhojit182004@gmail.com.
 
 <!---
